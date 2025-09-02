@@ -70,7 +70,7 @@ subject to,
 &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Add $N_{\text{left}}$ and $N_{\text{right}}$ to $L$*  
 
 &emsp; &emsp; &emsp; **Return:**   
-&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;*Optimal solution $(x_{\text{best}}, z^*)$ if found, otherwise report infeasible*  
+&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;*Optimal solution $(x_{best}, z^*)$ if found, otherwise report infeasible*  
 
 
 
