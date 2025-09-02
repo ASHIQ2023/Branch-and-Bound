@@ -21,7 +21,7 @@ subject to,
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; $15x_p + 30x_l \leq 200$  
 
 ### Sign Constraint
-&emsp; &emsp; &emsp;   $x_l \geq 0 $ and integer   
+&emsp; &emsp; &emsp;   $x_l \geq 0$ and integer   
 &emsp; &emsp; &emsp;   $x_p \geq 0$ and integer
 
 
