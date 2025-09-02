@@ -18,7 +18,7 @@ Maximize $ = \$100x_p + \$150x_l $
 ### Constraint  
 subject to,  
 &emsp; &emsp; &emsp; &emsp; &emsp;    $8000x_p + 4000x_l \leq  40000$  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;$15x_p + 30x_l \leq 200$  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; $15x_p + 30x_l \leq 200$  
 
 ### Sign Constraint
 &emsp; &emsp; &emsp;   $x_l \geq 0 $ and integer   
