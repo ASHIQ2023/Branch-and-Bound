@@ -67,10 +67,10 @@ subject to,
 &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Create two child nodes:*  
 &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $N_{\text{left}}$: add constraint $x_j \leq \lfloor x_j^* \rfloor$  
 &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $N_{\text{right}}$: add constraint $x_j \geq \lceil x_j^* \rceil$  
-&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Add $N_{\text{left}}$ and $N_{\text{right}}$ to $L$*  
+&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Add $N_{left}$ and $N_{right}$ to $L$*  
 
 &emsp; &emsp; &emsp; **Return:**   
-&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;*Optimal solution $(x_{best}, z^*)$ if found, otherwise report infeasible*  
+&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;*Optimal solution ($x_{best}, z*)$ if found, otherwise report infeasible*  
 
 
 
